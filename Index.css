@@ -1,0 +1,316 @@
+.navbar {
+  width: 100%;
+  height: 50px; /* Adjust height as needed */
+  background-color: #f8f9fa; /* Adjust background color as needed */
+  padding: 10px 0; /* Adjust padding as needed */
+}
+
+.container-fluid {
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  padding: 0 20px; /* Adjust padding as needed */
+}
+
+.navbar-brand {
+  font-size: 20px; /* Adjust font size as needed */
+  margin-top: -10px;
+}
+#heading{
+  color:  rgba(126, 190, 161, 1);
+}
+
+.navbar-menu {
+  display: flex;
+ margin-left: 556px;
+ margin-top: -30px;
+ /* align-items: center; */
+}
+
+p {
+  margin-left: 1.05px;
+  margin-right: 5px; /* Adjust margin as needed */
+  font-family: sans-serif;
+  /* margin-top: -660px; */
+  
+}
+
+#divLine {
+  /* margin-right: 15px; */
+  width: 1px;
+  height: 20px; /* Adjust height as needed */
+  background-color: rgb(98, 103, 103);
+  /* margin: 10px, 10px; Adjust margin as needed */
+  margin-top: -265px;
+  margin-left: 680px;
+}
+
+#icon,
+#search {
+  
+  font-size: 20px; /* Adjust font size as needed */
+  margin-top: -265px;
+  margin-left: 50px;
+}
+
+.navbar-menu:last-child {
+  margin-left: auto;
+}
+
+#icon{
+  font-size: 8px;
+  margin-left: -5px;
+  margin-top: 10px;
+}
+
+.fader-bg{
+  display: flex;
+width: 100%;
+height:307px ;
+background: linear-gradient(147.81deg, #FFFFFF 14.03%, rgba(196, 196, 196, 0) 82.8%);
+}
+
+.font{
+  width: 400px;
+  height: 200px;
+  /* border: 2px solid; */
+  margin: 80px 80px 12px 80px;
+}
+.font, h1{
+  font-family:sans-serif;
+  line-height: 535px;
+}
+#Second{
+  margin-top: 28px;
+}
+#h1{
+ font-weight: 600;
+ letter-spacing: 10px;
+ margin-top: 28px;
+ color: rgb(55, 163, 143);
+}
+.vr-glass-icon{
+width:250px;
+height:300x;
+margin: 80px -12px;
+rotate: 0 deg;
+
+/* background: linear-gradient(180deg, #ABFFA9 0%, #5F909C 100%); */
+}
+
+.vr-glass-icon, #img{
+  width: 350px;
+  height: 150px;
+  margin-left: -56px;
+
+}
+
+.Button{
+width: 148px;
+height: 40px;
+margin-top: -23px;
+margin-left: 80px;
+border-radius: 94px;
+background-color: rgba(183, 244, 190, 1);
+color:whitesmoke;
+box-shadow: 0px 2px 2px 0px rgb(133, 133, 133);
+}
+.h5{
+margin-left: 22px;
+padding-top: 7px;
+}
+
+.Heading{
+width: 380px;
+height: 40px;
+text-align: center;
+margin-left: 210px;
+margin-top: 40px;
+/* background-color: antiquewhite; */
+}
+.Text-Heading{
+  margin: left 20px;
+  font-weight: 700;
+  /* letter-spacing: 0px; */
+}
+.span{
+  color: rgba(183, 244, 190, 1);
+}
+
+.pera{
+width: 800px;
+height: 50px;
+/* border: 2px solid; */
+margin-left: 30px;
+margin-top: 12px;
+}
+
+.p1{
+text-align: center;
+}
+.p2{
+  text-align: center;
+  margin-top: -16px;
+}
+.cards{
+width: 100%;
+height: 100px;
+box-sizing: border-box;
+text-align: center;
+}
+.img{
+  width: 700px;
+  margin-top: 60px;
+}
+
+.pera1{
+  width: 800px;
+  height: 50px;
+  /* border: 2px solid; */
+  margin-left: 30px;
+  margin-top: 270px;
+  }
+  
+  #p1{
+  text-align: center;
+  }
+  #p2{
+    text-align: center;
+    margin-top: -16px;
+  }
+
+.hr{
+  width: 790px;
+  height: 5px;
+  margin-left: 30px;
+}
+
+div{
+  width: 100%;
+  height: 300px;
+  /* border: 2px solid; */
+}
+.Heading-Text{
+display: flex;
+color:  rgba(0, 0, 0, 0.6);
+
+}
+.text{
+  margin: 32px;
+  font-weight: 600;
+}
+.meta{
+  color:  rgb(19, 175, 136);
+}
+
+.h3{
+  width:500px;
+  margin-left: 32px;
+  
+  
+}
+.IMG{
+  width: 300px;
+  /* border: 2px solid; */
+}
+
+.symbol{
+  width:315px;
+  height: 30px;
+  margin-left: 32px;
+  margin-top: 30px;
+}
+
+#div{
+width: 500px;
+height: 117px;
+margin-top: 250px;
+margin-left: 360px;
+
+}
+
+.TExt{
+  font-weight: 600;
+  font-size: 40px;
+}
+#SPAN{
+  color:  rgb(19, 175, 136) ;
+}
+
+.image{
+margin-top:-28px;
+display: flex;
+}
+
+#gmi{
+  width: 400px;
+  height: 250px;
+}
+#gmi1{
+  width: 250px;
+  height: 200px;
+  margin-left: -35px;
+}
+
+#Cercle-Img{
+  width:315px;
+  height: 30px;
+  margin-left: 365px;
+  margin-top: -55px;
+}
+
+.Head-Text{
+width: 500px;
+height: 117px;
+margin-left: 32px;
+margin-top: 100px;
+
+}
+.H1{
+  font-weight: 600;
+  margin-left: -1px;
+}
+
+.Green{
+  color:  rgb(19, 175, 136) ;
+}
+
+.H3{
+  width:500px ;
+  height: 100px;
+  margin-left: 32px;
+}
+#Src{
+  width: 350px;
+}
+
+.Vid{
+  display: flex;
+  margin-top: -52px;
+}
+
+.Src{
+  width:315px;
+  height: 30px;
+  margin-left: 32px;
+  margin-top: 60px;
+}
+
+#hr{
+  width: 780px;
+  height: 5px;
+  margin-left: 30px;
+  margin-top: 130px;
+}
+
+.text-center{
+  color:  rgba(126, 190, 161, 1);
+  font-weight: 600;
+}
+
+footer{
+  width: 100%;
+  height: 300px;
+ background: rgba(238, 238, 238, 1);
+ display: flex;
+}
